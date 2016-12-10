@@ -5,3 +5,8 @@ markdown is a language used in .....
 
 `git pull` update as the remote repo
 
+`git add`
+
+`git commit -m "..."`
+
+`git push`
